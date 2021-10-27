@@ -6,7 +6,7 @@ module.exports = class VOID {
     }
 
     serverCount(message) {
-       axios.post("https://discordtown.glitch.me/api/bots/stats", {}, {
+       axios.post("https://www.flowlist.xyz/api/bots/stats", {}, {
         headers: {
           'serverCount': this.client.guilds.cache.size,
           'Content-Type': 'application/json',
@@ -16,11 +16,11 @@ module.exports = class VOID {
     }
 
     async search(id) {
-      return axios.get(`https://discordtown.glitch.me/api/bots/${id}`).then((res)=>res.data);
+      return axios.get(`https://www.flowlist.xyz/api/bots/${id}`).then((res)=>res.data);
     }
 
     async hasVoted(id) {
-        return axios.get(`https://discordtown.glitch.me/api/bots/${id}`, {
+        return axios.get(`https://www.flowlist.xyz/api/bots/${id}`, {
           headers: {
             'Content-Type': 'application/json',
             'Authorization': this.token
