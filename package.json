@@ -1,0 +1,15 @@
+{
+  "name": "api-flowlist",
+  "version": "1.0.0",
+  "description": "Official package to interact with discordtown.com API to post your bot server count.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "DevMirza | CustomTag",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
