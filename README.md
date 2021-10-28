@@ -23,16 +23,6 @@ client.on("ready", async () => {
 client.login();
 ```
 
-## Dont want to use the package? You can use our endpoints to post server count.
-Dont worry if u dont want to use package to post server count u can use our API Endpoints to post.
-<h3><b>Below are the Endpoints:</b></h3>
-<ol>
-<li><code>https://www.flowlist.xyz/api/bots/stats</code> use this endpoint to post server count.</li>
-<li><code>https://www.flowlist.xyz/api/bots/${id}</code> use this endpoint to get your bot information.</li>
-<li><code>https://www.flowlist.xyz/api/bots/${id}</code> use this endpoint to get information if somone voted for your bot through our website.</li>
-</ol>
-<b>Note: for 3rd endpoint you have to pass authorization token.</b>
-
 ## ⚙ How do i get my bot's token?
 It's very Simple, [Click Here](https://www.flowlist.xyz) Just go to your bot's edit page and click on token on the left side, one thing once you click it it auto copy it to your clipboard and you can paste it in your code to start posting Server Count.
 
