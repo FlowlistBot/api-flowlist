@@ -13,7 +13,7 @@ module.exports = class VOID {
           'Content-Type': 'application/json',
           'Authorization': this.token
         },
-         }).then(()=>console.log("Server count posted.")).catch(()=>null);
+         }).then(()=>console.log("Flowlist-api > Statistic posted")).catch(()=>null);
     }
 
     async search(id) {
