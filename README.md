@@ -34,7 +34,7 @@ Dont worry if u dont want to use package to post server count u can use our API 
 <b>Note: for 3rd endpoint you have to pass authorization token.</b>
 
 ## ⚙ How do i get my bot's token?
-its very Simple, Just go to your bot's edit page and click on token on the left side, one thing once you click it it auto copy it to your clipboard and you can paste it in your code to start posting Server Count.
+It's very Simple, [Click Here](https://www.flowlist.xyz) Just go to your bot's edit page and click on token on the left side, one thing once you click it it auto copy it to your clipboard and you can paste it in your code to start posting Server Count.
 
 ## ⛑ Maintainers
 `DevMirza#6447`</br>
