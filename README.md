@@ -1,5 +1,5 @@
 # FlowList API
-Official package to interact with flowlist API to post your bot's Server Count.
+Official package to interact with Flowlist API to post your bot's Server Count.
 
 ## 📝 Requirements
 1. Make sure u have added your bot to our listing system.
