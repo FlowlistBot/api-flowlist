@@ -23,8 +23,8 @@ client.on("ready", async () => {
 client.login();
 ```
 
-## ⚙ How do i get my bot's token?
-It's very Simple, [Click Here](https://www.flowlist.xyz) Just go to your bot's edit page and click on token on the left side, one thing once you click it it auto copy it to your clipboard and you can paste it in your code to start posting Server Count.
+## ⚙ How do I get my bot's token?
+It's very Simple, [Click Here](https://www.flowlist.xyz) Just go to your bot's edit page and click on the token on the left side, one thing once you click it auto-copy it to your clipboard and you can paste it in your code to start posting Server Count.
 
 ## ⛑ Maintainers
 `DevMirza#6447`</br>
