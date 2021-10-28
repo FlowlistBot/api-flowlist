@@ -1,4 +1,5 @@
 const axios = require('axios');
+
 module.exports = class VOID {
     constructor(token, client) {
         this['token'] = token;
