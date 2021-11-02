@@ -1,6 +1,6 @@
 {
   "name": "api-flowlist",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Official package to interact with townlist.xyz API to post your bot server count.",
   "main": "index.js",
   "scripts": {
