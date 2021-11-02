@@ -32,6 +32,7 @@ It's very Simple, [Click Here](https://www.flowlist.xyz) Just go to your bot's e
 `VENOM#9208`</br>
 
 ## Links
+[Documentation](https://docz.flowlist.xyz)</br>
 [Website](https://www.flowlist.xyz)</br>
 [Discord Server](https://discord.gg/NsRHjhDEzQ)</br>
 [GitHub Organization](https://github.com/FlowlistBot)</br>
