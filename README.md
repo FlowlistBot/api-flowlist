@@ -13,11 +13,11 @@ Official package to interact with Flowlist API to post your bot's Server Count.
 ```js
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const FLOW = require('api-flowlist');
-const flow = new FLOW("TOKEN-HERE", client);
+const FlowAPIPoster = require('api-flowlist');
+const ApiPoster = new FlowAPIPoster("Token here", client);
 
 client.on("ready", async () => {
-  flow.serverCount();
+  ApiPoster.postStats();
 });
 
 client.login();
