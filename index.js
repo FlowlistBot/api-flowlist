@@ -6,10 +6,12 @@ module.exports = class VOID {
         this['client'] = client;
     }
 
-    serverCount(message) {
+    
+    postStats(message) {
        axios.post("https://www.flowlist.xyz/api/bots/stats", {}, {
         headers: {
           'serverCount': this.client.guilds.cache.size,
+          'shardCount': this.client.options.shardCount || null,
           'Content-Type': 'application/json',
           'Authorization': this.token
         },
