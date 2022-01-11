@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.24.0"
+  },
+  "devDependencies": {
+    "javascript-obfuscator": "^3.0.0"
   }
 }
