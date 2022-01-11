@@ -5,7 +5,6 @@ module.exports = class VOID {
         this['token'] = token;
         this['client'] = client;
     }
-
     
     postStats(message) {
        axios.post("https://www.flowlist.xyz/api/bots/stats", {}, {
