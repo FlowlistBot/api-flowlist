@@ -1,6 +1,6 @@
 {
   "name": "api-flowlist",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Official package to interact with Flowlist.xyz API to post your bot server count & shardCount.",
   "main": "index-obfuscator.js",
   "scripts": {
